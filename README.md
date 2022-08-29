@@ -1,5 +1,6 @@
 # sub-vue
 
+#### this is micro application.its master application  is combinePro
 ## Project setup
 
 ```
